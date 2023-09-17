@@ -104,6 +104,6 @@
 
 <p align="center">
 <a href="https://www.atesfahun.github.io"><img src="https://img.shields.io/badge/-www.atesfahun.github.io-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/ayalkbet-tesfahun"><img src="https://img.shields.io/badge/-Muhammad%20Kumail-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:ayalkbettesfahun@gmail.com"><img src="https://img.shields.io/badge/-mkumailofficial@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://instagram.com/tesfaa.abi"><img src="https://img.shields.io/badge/-@themvpguy-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ayalkbet-tesfahun"><img src="https://img.shields.io/badge/-@ayalkbet-tesfahun-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:ayalkbettesfahun@gmail.com"><img src="https://img.shields.io/badge/-ayalkbettesfahun@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/tesfaa.abi"><img src="https://img.shields.io/badge/-@tesfaa.abi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
