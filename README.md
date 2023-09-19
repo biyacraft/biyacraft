@@ -7,7 +7,7 @@
 
 - 🌐 I'm currently senior year **Computer Engineering** student at **Jimma University**
 
-- 👨‍💻 All of my projects are available at [GitHub](github.com/atesfahun)
+- 👨‍💻 All of my projects are available at [GitHub]([https://github.com/Atesfahun])
 
 - 💬 Ask me about **React, Web Development, Blockchain, Javascript, AI, ML**
 
