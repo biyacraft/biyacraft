@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [GitHub]([https://github.com/Atesfahun])
 
-- 💬 Ask me about **React, Web Development, Blockchain, Javascript, AI, ML**
+- 💬 Ask me about  **React, Web Development, Blockchain, Javascript, AI, ML**
 
 - 📫 Reach me via [Email](mailto:ayalkbettesfahun@gmail.com)
 
@@ -24,7 +24,7 @@
  <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 <h2><i>💻 Tech Stack</i></h2>
-
+ 
 <table width="100">
 <tr>
     <td align='center' width="190">
