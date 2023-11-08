@@ -8,8 +8,10 @@
 
 - 🌐 I'm currently senior year **Computer Engineering** student at **Jimma University**
 
-- 👨‍💻 All of my projects are available at [GitHub]([https://github.com/Atesfahun])
+- 🌐 [Portfolio]([https://atesfahun.github.io/])
 
+- 👨‍💻 All of my projects are available at [GitHub]([https://github.com/Atesfahun])
+  
 - 💬 Ask me about  **React, Web Development, Blockchain, Javascript, AI, ML**
 
 - 📫 Reach me via [Email](mailto:ayalkbettesfahun@gmail.com)
