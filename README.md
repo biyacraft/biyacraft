@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayalkbet Tesfahun</h1>
+
 <h3 align="center">Web Developer || Computer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mkumail1&label=Profile%20views&color=red&style=flat" alt="abi" /> </p>
@@ -79,6 +80,8 @@
 <br />
 <br />
 
+
+
 <!--
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
@@ -89,13 +92,15 @@
 </p>
 </details> 
 -->
+
+
 <details> 
   <summary> 🏆 <b>My trophy stats so far</b>: </summary>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atesfahun" alt="atesfahun" /></a></p>
 </details>
+<br />
+<br />
 
-<br />
-<br />
 
 
 ## 🤝🏻 &nbsp;Connect with Me
