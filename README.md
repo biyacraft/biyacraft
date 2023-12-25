@@ -8,6 +8,7 @@
 
 - 🌐 Here is my [Portfolio](https://atesfahun.github.io/)
 
+
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/Atesfahun)
   
 - 💬 Ask me about  **React, Web Development, Blockchain, Javascript, AI, ML**
@@ -21,6 +22,8 @@
 - I love to study new technologies and read articles in my free time
 
 <br />
+
+
 
  <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
