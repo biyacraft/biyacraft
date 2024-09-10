@@ -85,16 +85,9 @@
 <br />
 <br />
 
-<!--
-<details open>
- <summary> 😇 <b>My Github Stats</b>: </summary>
-<br>
- <p align = "center">
-  <!-- <img src = "https://github-readme-stats.vercel.app/api?username=atesfahun&show_icons=true&theme=tokyonight&line_height=25" width = 400> 
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=atesfahun&theme=solarized-dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&line_height=25" width = 400>
-</p>
-</details> 
--->
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ab4io&show_icons=true&theme=tokyonight" />
+</a>
 <details> 
   <summary> 🏆 <b>My trophy stats so far</b>: </summary>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atesfahun" alt="atesfahun" /></a></p>
