@@ -11,13 +11,9 @@
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/ab4io)
   
-- 💬 Ask me about  **React, Web Development, Blockchain, Javascript, AI, ML**
+- 💬 Ask me about  **React, Web Development, Blockchain, AI, ML**
 
 - 📫 Reach me via [Email](mailto:ayalkbettesfahun@gmail.com)
-
-- 🌱 Lately, I'm learning **Blockchain**
-
-- 👯 I’m looking to collaborate on **Any Open Source Project**
 
 - I love to study new technologies and read articles in my free time
 
