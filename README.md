@@ -9,7 +9,7 @@
 - 🌐 Here is my [Portfolio](https://ab4io.vercel.app/)
 
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/ab4io)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/abakiya)
   
 - 💬 Ask me about  **React, Web Development, Blockchain, AI, ML**
 
@@ -82,11 +82,11 @@
 <br />
 
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ab4io&show_icons=true&theme=tokyonight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abakiya&show_icons=true&theme=tokyonight" />
 </a>
 <details> 
   <summary> 🏆 <b>My trophy stats so far</b>: </summary>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ab4io" alt="ab4io" /></a></p>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abakiya" alt="ab4io" /></a></p>
 </details>
 <br />
 <br />
