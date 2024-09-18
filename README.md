@@ -2,7 +2,7 @@
 
 <h3 align="center">Computer Engineer | React | Python | Next.js</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mkumail1&label=Profile%20views&color=red&style=flat" alt="abi" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abakiya&label=Profile%20views&color=red&style=flat" alt="abi" /> </p>
 
 - 🌐 I'm currently senior year **Computer Engineering** student at **Jimma University**
 
