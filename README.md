@@ -22,8 +22,7 @@
 ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=biyacraft&show_icons=true&theme=gruvbox)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=biyacraft&theme=gruvbox&border_radius=4.5)
-#
-<br />
+
 <p align="left">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
