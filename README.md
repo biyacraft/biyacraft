@@ -1,38 +1,36 @@
-<h1 align="center">Hi 👋, I'm Ayalkbet Tesfahun</h1>
+<h2 align="center">Hi 👋, I'm Ayalkbet Tesfahun</h2>
 
-<h3 align="center">Computer Engineer | React | Python | Next.js</h3>
+<h3 align="center">Software Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biyacraft&label=Profile%20views&color=red&style=flat" alt="abi" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=biyacraft&label=Profile%20views&color=red&style=flat" alt="abi" /> </p>
 
-- 🌐 I'm currently senior year **Computer Engineering** student at **Jimma University**
-
-- 🌐 Here is my [Portfolio](https://biyacraft.vercel.app/)
-
-
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/abakiya)
-  
-
-- 📫 Reach me via [Email](mailto:ayalkbettesfahun@gmail.com)
-
-- I love to study new technologies and read articles in my free time
-
-<br />
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
+🌐 Here is my [Portfolio](https://biyacraft.vercel.app/)
+📫 Reach me via [Email](mailto:ayalkbettesfahun@gmail.com)
 
  <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
-<h2><i>💻 Tech Stack</i></h2>
+### 🧰 Languages and Tools
 
-
+<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
-<br />
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=biyacraft&show_icons=true&theme=tokyonight" />
-</a>
-<details> 
-  <summary> 🏆 <b>My trophy stats so far</b>: </summary>
-  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biyacraft" alt="ab4io" /></a></p>
-</details>
+### 📊 Stats
+
+![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=manuel-heav&show_icons=true&theme=gruvbox)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=manuel-heav&theme=gruvbox&border_radius=4.5)
+#
 <br />
 <br />
 
