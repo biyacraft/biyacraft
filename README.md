@@ -2,15 +2,6 @@
 
 <h3 align="center">Software Engineer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=biyacraft&label=Profile%20views&color=red&style=flat" alt="abi" /> </p>
-
-<p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-🌐 Here is my [Portfolio](https://biyacraft.vercel.app/)
-📫 Reach me via [Email](mailto:ayalkbettesfahun@gmail.com)
-
- <img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 ### 🧰 Languages and Tools
 
@@ -33,7 +24,10 @@
 #
 <br />
 <br />
-
+<h3 align="center">
+🌐 Here is my [Portfolio](https://biyacraft.vercel.app/)
+📫 Reach me via [Email](mailto:ayalkbettesfahun@gmail.com)
+</h3>
 
 
 ## 🤝🏻 &nbsp;Connect with Me
