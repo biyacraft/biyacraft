@@ -24,11 +24,6 @@
 ![GitHub Streak](https://streak-stats.demolab.com?user=biyacraft&theme=gruvbox&border_radius=4.5)
 
 
-<p align="left">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
-</p>
-
-
 
 [![My github activity](https://github-readme-activity-graph.vercel.app/graph?username=biyacraft&theme=github-compact)](https://github.com/yeabnoah/github-readme-activity-graph)
 
