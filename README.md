@@ -25,7 +25,7 @@
 
 
 
-[![My github activity](https://github-readme-activity-graph.vercel.app/graph?username=biyacraft&theme=github-compact)](https://github.com/yeabnoah/github-readme-activity-graph)
+[![My github activity](https://github-readme-activity-graph.vercel.app/graph?username=biyacraft&theme=github-compact)](https://github.com/biyacraft/github-readme-activity-graph)
 
 
 
